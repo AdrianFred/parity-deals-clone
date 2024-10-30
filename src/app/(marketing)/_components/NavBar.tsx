@@ -12,7 +12,7 @@ export function NavBar() {
         <Link href="/" className="text-lg">
           Features
         </Link>
-        <Link href="/" className="text-lg">
+        <Link href="#pricing" className="text-lg">
           Pricing
         </Link>
         <Link href="/" className="text-lg">
